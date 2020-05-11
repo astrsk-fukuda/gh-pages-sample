@@ -8,5 +8,5 @@ h1 {
 
 p {
   font-weight: bold;
-  color: linear-gradient(#29b107, #1800ec);
+  background: linear-gradient(#29b107, #1800ec);
 }
